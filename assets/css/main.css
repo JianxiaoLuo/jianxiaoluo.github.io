@@ -3161,7 +3161,7 @@
 /* Banner */
 
 	#banner {
-		background-attachment: scroll,							fixed;
+		background-attachment: fixed;
 		background-color: #666;
 		background-image: url("images/overlay.png"), url("../../images/background6.jpg");
 		background-position: top left,						center center;
